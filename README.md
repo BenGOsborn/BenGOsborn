@@ -1,9 +1,8 @@
 ### :hand: Hello There! :hand:
 
 ## I'm a computer science student and a software engineer
-- 🔭 I’m currently working on an eCommerce website which allows users to make their own shop to sell their items
-- 🌱 I’m currently learning fullstack development, specifically the process of connecting technologies together to make great apps
-- ⚡ Fun fact: 
+- :rocket: I’m currently working on an eCommerce website which allows users to make their own shop to sell their items :rocket:
+- :closed_book: I’m currently learning fullstack development, specifically the process of connecting technologies together to make great apps :closed_book:
 
 <br />
 
