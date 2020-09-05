@@ -1,4 +1,4 @@
-## :hand: Hi, I'm Ben :hand:
+## :hand: Hello! I'm Ben :hand:
 
 ### I'm a computer science student and a software engineer
 - :rocket: I’m currently making an eCommerce website which allows users to make their own shop to sell their items
