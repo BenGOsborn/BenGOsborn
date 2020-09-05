@@ -1,8 +1,8 @@
-### :hand: Hello There! :hand:
+## :hand: Hello There! :hand:
 
-## I'm a computer science student and a software engineer
-- :rocket: I’m currently making an eCommerce website which allows users to make their own shop to sell their items :rocket:
-- :closed_book: At the moment I'm learning fullstack development, specifically the process of connecting technologies together to make great apps :closed_book:
+### I'm a computer science student and a software engineer
+- :rocket: I’m currently making an eCommerce website which allows users to make their own shop to sell their items
+- :closed_book: At the moment I'm learning fullstack development, specifically the process of connecting technologies together to make great apps
 
 <br />
 
