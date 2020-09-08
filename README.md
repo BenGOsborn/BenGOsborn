@@ -2,7 +2,7 @@
 
 ### I'm a computer science student and a software engineer
 - :rocket: I’m currently making an eCommerce website which allows users to make their own shop to sell their items
-- :brain: I’m also working on a neural network library supported over multiple languages which will allow users to create their own neural networks
+- :brain: I’m also working on a deep neural network 'CERCI', an AI designed to replicate human interactions, as well as releasing a library for creating custom neural networks along with her
 - :closed_book: At the moment I'm learning fullstack development, specifically the process of connecting technologies together to make great apps
 
 <br />
