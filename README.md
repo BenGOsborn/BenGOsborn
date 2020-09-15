@@ -1,9 +1,8 @@
 ## :hand: Hello! I'm Ben :hand:
 
 ### I'm a computer science student and a software engineer
-- :rocket: I’m currently making an eCommerce website which allows users to make their own shop to sell their items
 - :brain: I’m creating a deep neural network framework 'CERCI' with c++ to replicate the way humans interact with each other
-  - I intend to use this network for some of my upcoming networks for optimial performance
+  - :rocket: I intend to use this network for some of my upcoming networks for optimial performance
 
 <br />
 
