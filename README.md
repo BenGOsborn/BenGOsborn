@@ -1,7 +1,7 @@
 ## :hand: Hello! I'm Ben :hand:
 
 ### I'm a computer science student and a software engineer
-- :brain: I’m creating a deep neural network framework 'CERCI' with c++ to replicate the way humans interact with each other
+- :brain: I’m creating a deep neural network framework 'CERCI' with C++ and Python to replicate the way humans interact with each other
   - :rocket: I intend to use this network for some of my upcoming networks for optimial performance
 
 <br />
