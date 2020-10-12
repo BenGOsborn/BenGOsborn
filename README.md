@@ -2,11 +2,9 @@
 
 ### I'm a computer science student majoring in data science and artificial intelligence
 - :brain: I’m creating a deep neural network 'CERCI' with CUDA and Python to replicate the way humans interact with each other
-  - :rocket: I intend to use this network for some of my upcoming networks for optimial performance
-  - :eyes: CERCI will consist of a deep LSTM network with convolutional layers to process inputs 
-  - :train: She will be trained using deep Q learning aswell as being fed gathered data, allowing her to learn like a human would through being taught, as well as learning from her environment
-
-<br />
+  - :rocket: I intend to use this network for some of my upcoming networks for low level performance gains as well as to better understand neural networks
+  - :eyes: CERCI will consist of convolutional layers using residual blocks fed into a deep transformer network
+  - :train: She will be trained using an actor-critic method, allowing her to learn like a human would through interactions with her environment
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
