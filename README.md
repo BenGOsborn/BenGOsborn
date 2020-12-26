@@ -1,6 +1,6 @@
 ## :hand: Hey! I'm Ben
 
-### I'm a student, data scientist and [youtuber](https://youtu.be/4ewrl6pdUmU)
+### I'm a student, data scientist and machine learning engineer
 - :page_facing_up: I'm currently creating an open source text summaration API using tensorflow
 - :brain: I'm currently learning about transformer neural network architectures
 - :chart_with_upwards_trend: I'm also learning about reinforcement learning algorithms, such as deep Q learning, policy gradients and actor critic
