@@ -3,4 +3,4 @@
 ### Programming topics I enjoy:
  - 🧠 Machine learning and AI
  - 💰 Finance
- - 📃 Blockchain and smart contracts
+ - 🪙 Cryptocurrency, ⛓️ blockchain, and 📃 smart contracts
