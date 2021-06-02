@@ -2,6 +2,7 @@
 
 ### Programming topics I enjoy:
  - 🧠 Data science, machine learning, and AI
- - 🕸️ Web development
+ - 🕸️ Fullstack development
+ - 🤖 Web scraping
  - 💰 Finance
- - 🪙 Cryptocurrency, ⛓️ blockchain, and 📃 smart contracts
+ - 🪙 Cryptocurrency, ⛓️ blockchain, and 📃 smart contracts, and 💰 Finance
