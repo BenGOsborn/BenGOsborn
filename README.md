@@ -10,4 +10,4 @@
  - NodeJS and TypeScript / Python and Flask
  - NextJS / ReactJS
  - MongoDB / PostgreSQL
- - *Bonus* Sass
+ - *Bonus: Sass*
