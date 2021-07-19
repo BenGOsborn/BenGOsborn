@@ -3,11 +3,33 @@
 ### Programming topics I enjoy:
  - 🕸️ Fullstack software development
  - 🤖 Web scraping
- - 💰 Finance, 📃 smart contracts, and ⛓️ blockchain
+ - 💰 Finance
  - 🧠 Data science, machine learning, and AI
 
-### My favourite tech stack:
- - NodeJS and TypeScript / Python and Flask
- - NextJS / ReactJS
- - MongoDB / PostgreSQL
- - *Bonus: Sass*
+### My favourite tools and technologies:
+ - **Programming languages**
+  - TypeScript and JavaScript
+  - Python
+  - Golang
+ - **Frameworks**
+  - Flask
+  - NodeJS with ExpressJS
+  - ReactJS
+  - NextJS
+ - **Databases**
+  - PostgreSQL
+  - MongoDB
+  - Redis
+ - **Misc technologies**
+  - Sass
+  - Materialize CSS
+  - GraphQL
+  - Prisma
+  - Jest
+  - Supertest
+ - **Devops**
+  - Docker
+  - Docker Compose
+  - Nginx
+  - Heroku
+  - Digital Ocean
