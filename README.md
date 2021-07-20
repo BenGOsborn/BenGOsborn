@@ -24,7 +24,7 @@
    - Sass
    - Materialize CSS
    - GraphQL
-   - Prisma
+   - Typeorm
    - Jest
    - Supertest
  - **Devops**
