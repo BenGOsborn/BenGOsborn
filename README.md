@@ -1,7 +1,7 @@
 ## 👉 I'm a man on a mission to keep 📚 learning and 🦾 improving
 
 ### Programming topics I enjoy:
- - 🕸️ Fullstack software development
+ - 🕸️ Fullstack software development (specifically backend)
  - 🤖 Web scraping
  - 💰 Finance
  - 🧠 Data science, machine learning, and AI
@@ -25,11 +25,8 @@
    - Materialize CSS
    - GraphQL
    - Typeorm
-   - Jest
-   - Supertest
  - **Devops**
    - Docker
    - Docker Compose
-   - Nginx
    - Heroku
    - Digital Ocean
