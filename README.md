@@ -24,6 +24,7 @@
  - **Misc technologies**
    - Sass
    - Typeorm
+   - Linux
  - **Devops**
    - Docker
    - Docker Compose
