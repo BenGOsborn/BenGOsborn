@@ -11,6 +11,7 @@
    - TypeScript and JavaScript
    - Python
    - Golang
+   - SQL
  - **Frameworks**
    - Flask
    - NodeJS with ExpressJS
@@ -22,11 +23,9 @@
    - Redis
  - **Misc technologies**
    - Sass
-   - Materialize CSS
-   - GraphQL
    - Typeorm
  - **Devops**
    - Docker
    - Docker Compose
    - Heroku
-   - Digital Ocean
+   - Nginx
