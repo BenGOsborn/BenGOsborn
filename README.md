@@ -25,6 +25,7 @@
    - Sass
    - Typeorm
    - Linux
+   - Stripe API 🧡
  - **Devops**
    - Docker
    - Docker Compose
