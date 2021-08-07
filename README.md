@@ -12,6 +12,9 @@
    - Python
    - Golang
    - SQL
+   - HTML
+   - CSS
+   - Sass
  - **Frameworks**
    - Flask
    - NodeJS with ExpressJS
@@ -22,12 +25,12 @@
    - MongoDB
    - Redis
  - **Misc technologies**
-   - Sass
    - Typeorm
    - Linux
    - Stripe API 🧡
  - **Devops**
    - Docker
    - Docker Compose
-   - Heroku
    - Nginx
+   - Heroku
+   - Netlify
