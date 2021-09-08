@@ -1,4 +1,4 @@
-## 👉 I'm a man on a mission to keep 📚 learning and 🦾 improving
+## 👉 I'm a man on a mission to keep 📚 learning and 🦾 improvin
 
 ### Programming topics I enjoy:
  - 🕸️ Fullstack software development (specifically backend)
