@@ -3,7 +3,7 @@
 ### Programming topics I enjoy:
  - 🕸️ Fullstack software development (specifically backend)
  - 🤖 Web scraping
- - 💰 Finance
+ - 💰 Crypto and Finance
  - 🧠 Data science, machine learning, and AI
 
 ### My favourite tools and technologies:
