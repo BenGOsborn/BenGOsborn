@@ -15,6 +15,7 @@
    - HTML
    - CSS
    - Sass
+   - Solidity
  - **Frameworks**
    - Flask
    - NodeJS with ExpressJS
@@ -28,6 +29,7 @@
    - Typeorm
    - Linux
    - Stripe API 🧡
+   - Web3 and Truffle
  - **Devops**
    - Docker
    - Docker Compose
