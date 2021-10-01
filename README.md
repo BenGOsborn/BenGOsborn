@@ -21,6 +21,7 @@
    - NodeJS with ExpressJS
    - ReactJS
    - NextJS
+   - TailwindCSS
  - **Databases**
    - PostgreSQL
    - MongoDB
