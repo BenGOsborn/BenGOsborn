@@ -37,3 +37,4 @@
    - Nginx
    - Heroku
    - Netlify
+   - GitHub actions
