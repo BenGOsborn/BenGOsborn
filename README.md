@@ -38,3 +38,4 @@
    - Heroku
    - Netlify
    - GitHub actions
+   - Digital Ocean
