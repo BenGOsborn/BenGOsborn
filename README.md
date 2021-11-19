@@ -30,7 +30,12 @@
    - Typeorm
    - Linux
    - Stripe API 🧡
-   - Web3 and Truffle
+ - Blockchain
+   - Web3 and Ethers
+   - Truffle and Hardhat
+   - Solidity
+   - IPFS and Pinata
+   - Chainlink
  - **Devops**
    - Docker
    - Docker Compose
