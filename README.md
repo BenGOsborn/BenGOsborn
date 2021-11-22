@@ -6,7 +6,7 @@
  - 💰 Crypto and Finance
  - 🧠 Data science, machine learning, and AI
 
-### My favourite tools and technologies:
+### My favourite tools and technologies
  - **Programming languages**
    - TypeScript and JavaScript
    - Python
