@@ -1,7 +1,7 @@
 ## 👉 I'm a man on a mission to keep 📚 learning and 🦾 improving
 
 ### Programming topics I enjoy:
- - 🕸️ Fullstack software development (specifically backend
+ - 🕸️ Fullstack software development (specifically backend)
  - 🤖 Web scraping
  - 💰 Crypto and Finance
  - 🧠 Data science, machine learning, and AI
