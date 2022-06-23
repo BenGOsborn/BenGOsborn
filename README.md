@@ -1,4 +1,4 @@
 # Ben Osborn
 
-- The embodiment of CI/CD in real life 🔃
-- Cloud pipelines are modern Rube Goldberg machines
+- 🔃 The embodiment of CI/CD in real life
+- ⛅ Cloud pipelines are just modern Rube Goldberg machines
